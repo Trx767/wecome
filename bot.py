@@ -11,7 +11,7 @@ from aiogram.filters import Command, ChatMemberUpdatedFilter, LEAVE_TRANSITION
 from aiogram.types import Message, ChatPermissions, ChatMemberUpdated
 
 # Bot Token (Render Environment Variables ထဲတွင် TOKEN ဆိုပြီး ထည့်ပေးရပါမည်)
-TOKEN = os.getenv("TOKEN", "8668928237:AAEUZjBkIf3RzZwufIdW2XKP_WLU3cCSrf8")
+TOKEN = os.getenv("TOKEN", "8668928237:AAEEdsgiEz8jNBwLlkTxbSXXro33568-OCg")
 
 dp = Dispatcher()
 
